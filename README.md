@@ -1,4 +1,4 @@
-# CLEAR MVP-ARCHITECTURE FOR ANDROID
+# CLEAN MVP-ARCHITECTURE FOR ANDROID
 Hello, it's a simple clear MVP project without any MVP - frameworks (Mosby, Moxy etc.).
 
 ##Stack of technologies:
@@ -14,7 +14,7 @@ I decided to write a small project that uses a clean MVP architecture, without t
 
 ##What will it do?
 I have a project for AWT Bavaria. From there it was taken three news screen that will be written by MVP pattern.
-![Views] (https://lh3.googleusercontent.com/Kgl-7Srga0u1YBrwGrFrpv6UZjtpBEgcsLiFopwR7srzGcB6jLHmv3lVzTy-jo_LOQN20W4BwgpJW_tTb0zccwj7d7yFDMQAvT-eFAs_a2BEMMD-3uztBHmZ3AJvxUVmljetDSFJo3dewMWUdk5C6EQAVg3Y3xQE9RuT9HZhVQwrMKXguI05t-tMFuCkRYO-PVj8TmzlfirEHBbGW8R2ewyKmZ_9_vPCQ2fGv2XCxgbPpH-jOHGolfNxiItvAI7ea1A6Q8vloDg_kmoOYD0uVeByrEcsn3xfEtY3zYW095TntpXELepsoviMwtgAtTdVdSeg7pCqg831LgP3LfsIOixSVHaRHSfQ9WUBDKyXqsPWEveKPTf6NeFQ0L6q0VLxIOxeLoOW_qKB_SY5qa2QrQn0SckAPM3SYejImF_AJy0RhG8IVCBEENdXZ8myi4_Jzj3fTM0x--PdowTVtiomavl2aNdcRcyz6mFFJRdriEjmtbRxeon6s2-g4F2dXoL8poMLlQzzuTysrUYz-lrpp9TYtcsBF4ogCwmvIyHqVBXe5wN5VJ-vCh6g69OFHg7qTdfkTio6Ye73_OkGJlPX3KWXIxZmgbo=w559-h905-no)
+![Views] (https://www.dropbox.com/s/r8zqhybxereflxg/Slice%201.jpg?dl=1)
 
 So I decided to use the language - Kotlin.
 
